@@ -1,0 +1,21 @@
+{
+	"TestIntData": 42069,
+	"TestStringData": "Hello, World!",
+	"TestObject": {
+		"TestInsideObject": "yes, this is working",
+		"TestNoBool": false,
+		"TestYesBool": true
+	},
+	"TestArray": [
+		"Element 1", 
+		"Element 2",
+		"Element 3"
+	],
+	"TestOther": null,
+	"Hexadecimal": [
+	"1f1e33",
+	"looks like only strings work",
+	"AB0Ab0"
+	],
+	"FileFilish": "Finish"
+}

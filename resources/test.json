@@ -1,0 +1,14 @@
+{
+	"test": 10,
+	"hello, world": "hello world",
+	"testobject": {
+		"value1": 15,
+		"Value2": 14
+	},
+	"TestArray": [
+		"Element 1", 
+		"Element 2",
+		"Element 3",
+		420
+	]
+}
